@@ -31,3 +31,7 @@ Note: D = in[3], C = in[2], B = in[1], A = in[0]
 
 ![Console output](https://github.com/prathiknk8055/Anmaya_internship/blob/main/Assignment1%204x1mux/output%20images/console.png?raw=true)
 
+## Waveform
+
+![waveform output](https://github.com/prathiknk8055/Anmaya_internship/blob/main/Assignment1%204x1mux/output%20images/waveform.png?raw=true)
+
