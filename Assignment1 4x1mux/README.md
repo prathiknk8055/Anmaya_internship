@@ -29,5 +29,5 @@ Here’s an example of how the mux behaves (values will differ every run due to 
 Note: D = in[3], C = in[2], B = in[1], A = in[0]
 ## Console output
 
-![Console output](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Console output]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/prathiknk8055/Anmaya_internship/blob/main/Assignment1%204x1mux/output%20images/console.png))
 
