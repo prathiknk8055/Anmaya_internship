@@ -3,6 +3,8 @@
 
 This project implements a 4-to-1 multiplexer using a case statement in Verilog. The mux selects one of four input bits (in[0] to in[3]) based on a 2-bit select line (sel) and outputs the selected bit to out.
 
+EDA Playground link : "https://www.edaplayground.com/x/YgfG"
+
 ## Features
 1) Written using behavioral modeling (always @(*) block with case)
 
