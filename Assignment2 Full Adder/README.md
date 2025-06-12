@@ -26,6 +26,10 @@ It outputs:
 sum  = a ^ b ^ cin;
 cout = (a & b) | (b & cin) | (a & cin); 
 ```
+you can also use
+```verilog
+ {cout,sum}= a+b+cin;
+```
 
 ## Truth Table
 | A | B | Cin | Sum | Cout |
