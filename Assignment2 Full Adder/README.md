@@ -39,6 +39,7 @@ cout = (a & b) | (b & cin) | (a & cin);
 
 ## Console output
 
-[Console output]!(https://github.com/prathiknk8055/Anmaya_internship/blob/main/Assignment2%20Full%20Adder/output%20images/console.png?raw=true)
+![Console output](https://github.com/prathiknk8055/Anmaya_internship/blob/main/Assignment2%20Full%20Adder/output%20images/console.png?raw=true)
 
 ## Waveform
+![waveform](https://github.com/prathiknk8055/Anmaya_internship/blob/main/Assignment2%20Full%20Adder/output%20images/waveform.png?raw=true)
