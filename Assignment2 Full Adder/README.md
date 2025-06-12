@@ -2,6 +2,8 @@
 
 This project implements a **1-bit Full Adder** using Verilog and verifies its functionality with a testbench.
 
+EDA Playgorund link: "https://www.edaplayground.com/x/J5DF"
+
 ---
 
 ## 📘 Description
